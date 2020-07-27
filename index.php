@@ -39,7 +39,7 @@ get_header(); ?>
 				// Show a different message to a logged-in user who can add posts.
 				?>
 				<header class="entry-header">
-					<h1 class="entry-title">☆<?php _e( 'No posts to display', 'twentytwelve' ); ?></h1>
+					<h1 class="entry-title"><?php _e( 'No posts to display', 'twentytwelve' ); ?></h1>
 				</header>
 
 				<div class="entry-content">
