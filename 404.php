@@ -15,7 +15,7 @@ get_header(); ?>
 
 		<article id="post-0" class="post error404 no-results not-found">
 			<header class="entry-header">
-				<h1 class="entry-title">404ページ修正<?php _e('This is somewhat embarrassing, isn&rsquo;t it?', 'twentytwelve'); ?></h1>
+				<h1 class="entry-title">404ページ修正の更に修正<?php _e('This is somewhat embarrassing, isn&rsquo;t it?', 'twentytwelve'); ?></h1>
 			</header>
 
 			<div class="entry-content">
