@@ -28,6 +28,7 @@
 			<?php else : ?>
 			<h1 class="entry-title">
 				<a href="<?php the_permalink(); ?>" rel="bookmark">☆<?php the_title(); ?>☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆</a>
+			abc</h1>
 			</h1>
 			<?php endif; // is_single() ?>
 			<?php if ( comments_open() ) : ?>
@@ -71,7 +72,7 @@
 						?>
 					</div><!-- .author-avatar -->
 					<div class="author-description">
-						<h2>
+						<h2><span>2020.07.28</span>
 						<?php
 						/* translators: %s: Author display name. */
 						printf( __( 'About %s', 'twentytwelve' ), get_the_author() );
