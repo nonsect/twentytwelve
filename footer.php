@@ -23,7 +23,7 @@
 				/* translators: %s: WordPress */
 				printf( __( 'Proudly powered by %s', 'twentytwelve' ), 'WordPress' );
 				?>
-			</a>
+			(^o^)</a>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
