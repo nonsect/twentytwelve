@@ -18,7 +18,12 @@
 				the_privacy_policy_link( '', '<span role="separator" aria-hidden="true"></span>' );
 			}
 			?>
+<<<<<<< HEAD
+			<p style="fontsize: 60px">ダライラマ</p>
+			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentytwelve' ) ); ?>" class="imprint" title="<?php esc_attr_e( 'Semantic Personal Publishing Platform', 'twentytwelve' ); ?>">
+=======
 			<a href="<?php echo esc_url( __( 'https://wordpress.org/123/', 'twentytwelve' ) ); ?>" class="imprint" title="<?php esc_attr_e( 'Semantic Personal Publishing Platform', 'twentytwelve' ); ?>">
+>>>>>>> 2fdd2b2594e5e51622823a60491b3ee983d201be
 				<?php
 				/* translators: %s: WordPress */
 				printf( __( 'Proudly powered by %s', 'twentytwelve' ), 'WordPress' );
