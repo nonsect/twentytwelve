@@ -28,7 +28,7 @@
 				/* translators: %s: WordPress */
 				printf( __( 'Proudly powered by %s', 'twentytwelve' ), 'WordPress' );
 				?>
-			(;^o^;)人(^o^)人(^o^)MID-SUMMER(;^o^;)人(^o^)人(^o^)</a>
+			(●^o^●)HAPPY-SUMMER(;^o^;)</a>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
