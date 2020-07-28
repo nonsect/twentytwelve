@@ -28,7 +28,7 @@
 			<?php else : ?>
 			<h1 class="entry-title">
 				<a href="<?php the_permalink(); ?>" rel="bookmark">☆<?php the_title(); ?></a>
-			</h1>
+			abc</h1>
 			<?php endif; // is_single() ?>
 			<?php if ( comments_open() ) : ?>
 				<div class="comments-link">
